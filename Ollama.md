@@ -14,3 +14,5 @@ ollama pull qwen2.5:1.5b
 ```
 ollama pull nomic-embed-text-v2-moe
 ```
+
+- I had to use http://127.0.0.1:11434 to connect to ollama from n8n when creating credential
